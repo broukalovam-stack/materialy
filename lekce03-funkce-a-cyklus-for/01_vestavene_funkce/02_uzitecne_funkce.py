@@ -27,7 +27,7 @@ print(abs(3 - 10))    # 7   z -7 udělá 7
 
 
 # round zaokrouhlí desetinné číslo.
-print(round(3.14159))     # 3   bez dalšího údaje zaokrouhlí na celé číslo
+print(round(123.14159,-2))     # 3   bez dalšího údaje zaokrouhlí na celé číslo
 print(round(3.7))         # 4
 
 

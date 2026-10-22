@@ -5,3 +5,4 @@
 #     a nejdražší z nich a jestli se všechny tři vejdou do rozpočtu 1000 Kč.
 
 
+PrvniPolozka = ()

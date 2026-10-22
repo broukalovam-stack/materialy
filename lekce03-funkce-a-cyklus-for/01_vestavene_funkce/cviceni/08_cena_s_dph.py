@@ -6,4 +6,5 @@
 #    druhý ho dokonči.
 cena = 1000
 
-
+print ("cena bez DPH", cena, "Kč a", end=" ")
+print ("cena s DPH", cena *1.21, "Kč")

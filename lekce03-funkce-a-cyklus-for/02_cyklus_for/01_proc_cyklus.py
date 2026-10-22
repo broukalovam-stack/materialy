@@ -17,6 +17,8 @@ print("Ahoj")
 for cislo in range(3):
     print("Ahoj")
 
+for cislo in range(3):
+    print("Ahoj", str(cislo))
 
 # Jak takový cyklus přečíst:
 #   for      = klíčové slovo (opakuj)
@@ -30,3 +32,14 @@ for cislo in range(3):
 # (pět čísel, poslední je o jedna míň – to už známe z minula):
 for cislo in range(5):
     print(cislo)          # vypíše 0, 1, 2, 3, 4 – každé na svůj řádek
+
+
+
+print("zacatek")
+for i in range (98,100):
+    print("cislo")
+    if (i%2==0):
+        print ("sude", i)
+    else:
+        print ("liche", i)
+print("hotovo")

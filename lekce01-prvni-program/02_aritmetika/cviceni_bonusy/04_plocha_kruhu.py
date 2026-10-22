@@ -5,3 +5,5 @@
 #     Plocha = 3.14 × poloměr na druhou.
 
 
+Plocha = 3.14*(5**2)
+print(Plocha)

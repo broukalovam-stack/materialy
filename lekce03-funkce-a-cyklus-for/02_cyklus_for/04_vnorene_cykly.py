@@ -25,3 +25,8 @@ for tyden in range(1, 4):
     for den in range(1, 8):
         print(den, end=" ")       # dny 1 až 7 vedle sebe
     print()                       # po celém týdnu skoč na nový řádek
+
+#procházení mimo range
+jmeno = input("Tvoje jméno?")
+for pismeno in jmeno:
+    print(pismeno)

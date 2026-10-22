@@ -3,4 +3,6 @@
 
 # Zeptej se uživatele na dvě čísla a vypiš to větší z nich.
 
-
+PrvniCislo= input("Prvni čislo je:")
+DruheCislo = input("Druhé číslo je:")
+print(max(PrvniCislo, DruheCislo))

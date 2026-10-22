@@ -5,3 +5,5 @@
 #     od 1 do N (součet čísel vyděl jejich počtem).
 
 
+N = int(input("zadej číslo N:"))
+print(sum(range(1,N+1)) /len(range(1,N+1)))

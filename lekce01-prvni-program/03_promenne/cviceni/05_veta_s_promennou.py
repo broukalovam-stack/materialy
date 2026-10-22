@@ -5,3 +5,5 @@
 #    (místo <mesto> se má vypsat hodnota proměnné)
 
 
+mesto =  "Praha"
+print(mesto)

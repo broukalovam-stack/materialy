@@ -4,3 +4,6 @@
 # Vytvoř dvě proměnné s čísly a vypiš jejich součet.
 
 
+jmeno =  "Maruska"
+primeni = "Broukalova"
+print(jmeno +" "+primeni)
