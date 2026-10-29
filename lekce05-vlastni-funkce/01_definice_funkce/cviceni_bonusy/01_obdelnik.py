@@ -5,4 +5,9 @@
 #     obdélník zadané velikosti. obdelnik(5, 3) vypíše tři řádky
 #     po pěti hvězdičkách.
 
+def obdelník(sirka, vyska):
+    for hvezdicka in range(vyska):
+        print("*" *sirka)
+
+obdelník (5,3)
 

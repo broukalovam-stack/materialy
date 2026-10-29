@@ -4,4 +4,8 @@
 # Napiš funkci zeptej_se_a_pozdrav(), která se uživatele zeptá
 #     na jméno a pozdraví ho. Zavolej ji dvakrát.
 
+def zeptej_se_a_pozdrav():
+    pozdrav = input("Jaké je tvoje jméno:")
+    print("Ahoj", pozdrav)
 
+zeptej_se_a_pozdrav()

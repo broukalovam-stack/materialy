@@ -6,3 +6,6 @@
 #     Například ucet(25, 4) vypíše: 4 x 25 Kč = 100 Kč
 
 
+def ucet(cena, pocet):
+    print(pocet, "x", cena,"Kč","=", pocet*cena,"Kč")
+ucet(25, 4)
